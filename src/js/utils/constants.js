@@ -1,9 +1,11 @@
 export const PIECE_COUNTS_BY_SIZE = {
-    3: { flats: 10, capstones: 0 },
-    4: { flats: 15, capstones: 0 },
-    5: { flats: 21, capstones: 1 },
-    6: { flats: 30, capstones: 1 },
-    8: { flats: 50, capstones: 2 }
+  3: { flats: 10, capstones: 0 },
+  4: { flats: 15, capstones: 0 },
+  5: { flats: 21, capstones: 1 },
+  6: { flats: 30, capstones: 1 },
+  7: { flats: 40, capstones: 2 },
+  8: { flats: 50, capstones: 2 },
+  9: { flats: 60, capstones: 3 },
 };
 
 export const DIRECTIONS = {

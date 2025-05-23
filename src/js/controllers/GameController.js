@@ -212,7 +212,7 @@ export class GameController {
   }
 
   showNewGameDialog() {
-    const boardSizes = [3, 4, 5, 6, 8];
+    const boardSizes = [3, 4, 5, 6, 7, 8, 9];
     this.modalManager.showNewGameModal(
       boardSizes,
       this.gameState.boardSize,
