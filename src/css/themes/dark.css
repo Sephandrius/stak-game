@@ -1,0 +1,13 @@
+/* Dark theme (default) - additional theme-specific overrides */
+:root {
+    --bg-primary: #0a0a0a;
+    --bg-secondary: #1a1a1a;
+    --bg-tertiary: #2a2a2a;
+    --border-primary: #333;
+    --border-secondary: #444;
+    --text-primary: #e0e0e0;
+    --text-secondary: #999;
+    --accent-primary: #4a6fa5;
+    --accent-hover: #5a7fb5;
+    --accent-active: #3a5f95;
+}
